@@ -1,0 +1,31 @@
+{
+  "name": "express_intro_exercise",
+  "version": "1.0.0",
+  "description": "![http://www.unitedwaynorman.org/sites/unitedwaynorman.org/files/cutepuppy.jpg](http://www.unitedwaynorman.org/sites/unitedwaynorman.org/files/cutepuppy.jpg)",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/express_intro_exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/express_intro_exercise/issues"
+  },
+  "homepage": "https://github.com/gSchool/express_intro_exercise#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "chai": "^3.5.0",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0"
+  }
+}
