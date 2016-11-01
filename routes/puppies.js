@@ -4,7 +4,7 @@ var express = require("express");
 var router = express.Router();
 var app = express();
 
-var puppyJs = require("./models/puppies");
+var puppyJs = require("../models/puppy");
 var puppiesArray = puppyJs.puppiesArray;
 var Puppy = puppyJs.Puppy;
 
